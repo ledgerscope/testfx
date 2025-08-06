@@ -2,6 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net462</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
     <IsPackable>false</IsPackable>
     <DefineConstants>$(DefineConstants);FULLY_QUALIFIED_ID</DefineConstants>
   </PropertyGroup>
