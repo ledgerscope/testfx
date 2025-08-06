@@ -2,6 +2,7 @@
 
   <PropertyGroup>
     <TargetFrameworks>net462;netcoreapp3.1</TargetFrameworks>
+    <ImplicitUsings>enable</ImplicitUsings>
     <IsPackable>false</IsPackable>
     <DependencyCopyBehavior>PreserveNewest</DependencyCopyBehavior>
   </PropertyGroup>
